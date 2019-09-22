@@ -15,5 +15,5 @@
 실행 후 https주소 복사
 - 텔레그램 봇파더에서 얻은 토큰과, ngrok에서 받은 서버주소로 웹훅연결 
 <code>bot_set_webhook_call()</code>
--alone_festival.py 실행
+- alone_festival.py 실행
 
